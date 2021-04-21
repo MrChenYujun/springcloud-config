@@ -5,6 +5,10 @@
     <groupId>com.study.springcould</groupId>
     <artifactId>spring-cloud2.0</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>spring-cloud-config-3344</module>
+        <module>spring-cloud-eureka7001</module>
+    </modules>
     <packaging>pom</packaging>
     <!--  版本限制 统一版本jar包版本-->
     <properties>
